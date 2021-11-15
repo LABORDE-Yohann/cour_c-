@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1636983910 source:c:\users\ylaborde\source\repos\c++\cour_c-\game\main.cpp
+	<iostream>
+	<ctime>
+
