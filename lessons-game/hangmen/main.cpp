@@ -95,7 +95,8 @@ int main() {
                 }
             }while(cpt>1 && essai<=23);
             if (cpt && essai<=23){
-                printf("\n\nFélicitation !!! Vous avez devin\x82 le mot %s  Fantastique...\nLe mot \x82tait bien \"%s\"",liste[mot]);
+                    //le mot ne s'affiche pas a la fin
+                printf("\n\nFélicitation !!! Vous avez devin\x82 le mot %s  Fantastique...\nLe mot \x82tait bien \"%s\"",nom,liste[mot]);
             }
             else if(cpt=0 || essai>=24){
             printf("\nD\x82sol\x82 %s ... Faites vos dernieres prieres... Vous serez pendu hahahahaha!!!",nom);
