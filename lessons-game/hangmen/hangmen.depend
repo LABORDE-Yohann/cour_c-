@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1637145393 source:c:\users\ylaborde\source\repos\c++\cour_c-\lessons-game\hangmen\menu.cpp
+	"menu.h"
+	"dictionnaire.h"
+	<iostream>
+
+1637145393 c:\users\ylaborde\source\repos\c++\cour_c-\lessons-game\hangmen\menu.h
+
+1637070331 c:\users\ylaborde\source\repos\c++\cour_c-\lessons-game\hangmen\dictionnaire.h
+	<iostream>
+	<array>
+	<random>
+	<chrono>
+
+1637138567 source:c:\users\ylaborde\source\repos\c++\cour_c-\lessons-game\hangmen\jeu.cpp
+	"jeu.h"
+	"constantes.h"
+	<iostream>
+	<chrono>
+	<string>
+
+1637138420 c:\users\ylaborde\source\repos\c++\cour_c-\lessons-game\hangmen\jeu.h
+	<array>
+	"constantes.h"
+
+1637079127 c:\users\ylaborde\source\repos\c++\cour_c-\lessons-game\hangmen\constantes.h
+
+1637137810 source:c:\users\ylaborde\source\repos\c++\cour_c-\lessons-game\hangmen\main.cpp
+	"constantes.h"
+	"jeu.h"
+	"menu.h"
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<iostream>
+
